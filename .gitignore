@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Environment files
+.env
+.env.local
+
+# Firebase
+firebase-service-account.json
+firebase-service-account.json.json
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
